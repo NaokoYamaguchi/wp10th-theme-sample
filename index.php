@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>テーマ開発練習</h1>
+    <p>Gitの練習</p>
 </body>
 </html>
